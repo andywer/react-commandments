@@ -1,15 +1,15 @@
 # React Commandments
 
 #### § 1 Thou shalt not have any frameworks before me.
-#### § 2 Thou shalt not commit class inheritance.
+#### § 2 Thou shalt not mutate thy props nor state.
 #### § 3 Thou shalt compose thy components.
 #### § 4 Remember thy prop types and keep them holy.
 #### § 5 Honor thy stateless components.
 #### § 6 Thou shalt not clone thy children.
 #### § 7 Thou shalt not make assumptions about thy parents or neighbors.
 #### § 8 Thou shalt not copy from other's components and call it thy own.
-#### § 9 Thou shalt avoid context and refs.
-#### § 10 Thou shalt try to not pass classNames to other components.
+#### § 9 Thou shalt not inherit from other components.
+#### § 10 Thou shalt avoid context and refs.
 
 
 ## Thou have any proposals?
