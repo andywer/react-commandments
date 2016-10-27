@@ -1,2 +1,17 @@
-# react-commandments
-Thou shalt honor thy reactive code and keep it holy.
+# React Commandments
+
+#### § 1 Thou shalt not have any frameworks before me.
+#### § 2 Thou shalt not commit class inheritance.
+#### § 3 Thou shalt compose thy components.
+#### § 4 Remember thy prop types and keep them holy.
+#### § 5 Honor thy stateless components.
+#### § 6 Thou shalt not clone thy children.
+#### § 7 Thou shalt not make assumptions about thy parents or neighbors.
+#### § 8 Thou shalt not copy from other's components and call it thy own.
+#### § 9 Thou shalt avoid context and refs.
+#### § 10 Thou shalt try to not pass classNames to other components.
+
+
+## Thou have any proposals?
+
+Open an [issue](https://github.com/andywer/react-commandments/issues) or [pull request](https://github.com/andywer/react-commandments/pulls)!
