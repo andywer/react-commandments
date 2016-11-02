@@ -6,7 +6,7 @@
 #### § 4 Remember thy prop types and keep them holy.
 #### § 5 Honor thy stateless components.
 #### § 6 Thou shalt not clone thy children.
-#### § 7 Thou shalt not make assumptions about thy parents or neighbors.
+#### § 7 Thou shalt not make assumptions about other components.
 #### § 8 Thou shalt not copy from other's components and call it thy own.
 #### § 9 Thou shalt not inherit from other components.
 #### § 10 Thou shalt avoid context and refs.
