@@ -1,3 +1,7 @@
+New testament branch.
+
+**Call for action:** Let's add helpful descriptions to each commandment, so the readers know why they should adhere to them. Add some description and open a PR!
+
 # React Commandments
 
 #### § 1 Thou shalt not have any frameworks before me.
